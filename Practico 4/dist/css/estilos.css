@@ -1,0 +1,31 @@
+.cabe{
+justify-content: space-between;
+align-items: center;
+border-bottom: 3px solid black;
+padding: 10px;
+}
+.cont{
+    display: flex;
+    width: 100%;
+    justify-content: right;
+}
+.img{
+    width: 120px;
+    height: 70px;
+    border: 3px solid black;
+}
+.links{
+    padding-left: 30px;
+}
+.bordes{
+    border: 1px solid black;
+    margin:1px;
+}
+.img1{
+    width: 100%;
+    height: 250px;
+    border: 3px solid black;
+}
+.cont2{
+    padding-right: 20px;
+}
